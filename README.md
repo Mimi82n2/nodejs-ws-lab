@@ -1,3 +1,7 @@
+# Resources 
+https://medium.com/js-imaginea/comparing-bundlers-webpack-rollup-parcel-f8f5dc609cfd#:~:text=Less%20data%20means%20less%20browser%20processing%20time.&text=Apart%20from%20creating%20a%20bundle,browserify%2C%20rollup%2C%20parcel%20etc.
+
+
 # nodejs-ws-lab
 
 University of Alberta, CMPUT 404 Lab 8 starter repository. Create a basic Phaser
